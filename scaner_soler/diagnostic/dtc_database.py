@@ -152,3 +152,54 @@ class DTCDatabase:
                 (q, q)
             ).fetchall()
         return [{"code": r[0], "description": r[1], "system": r[2], "severity": r[3]} for r in rows]
+
+    # ── ECU repair knowledge (from Guia Completo de Reparo de ECUs) ──────────
+
+    def search_ecu_faults(self, make: str = "", keyword: str = "") -> list[dict]:
+        """Search ECU repair knowledge by vehicle make and/or symptom keyword."""
+        with self._conn() as con:
+            if not con.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='ecu_faults'").fetchone():
+                return []
+            clauses, params = [], []
+            if make:
+                clauses.append("LOWER(m.make) LIKE ?")
+                params.append(f"%{make.lower()}%")
+            if keyword:
+                clauses.append("(LOWER(f.symptom) LIKE ? OR LOWER(f.solution) LIKE ?)")
+                params += [f"%{keyword.lower()}%"] * 2
+            where = ("WHERE " + " AND ".join(clauses)) if clauses else ""
+            rows = con.execute(f"""
+                SELECT m.ecu_code, m.make, f.symptom, f.solution, f.page_ref
+                FROM ecu_faults f JOIN ecu_models m ON f.ecu_id = m.id
+                {where}
+                ORDER BY m.make, m.ecu_code
+                LIMIT 50
+            """, params).fetchall()
+        return [{"ecu": r[0], "make": r[1], "symptom": r[2], "solution": r[3], "page": r[4]} for r in rows]
+
+    def get_ecu_components(self, ecu_code: str) -> list[dict]:
+        """Return components/pinout for a given ECU module code."""
+        with self._conn() as con:
+            if not con.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='ecu_components'").fetchone():
+                return []
+            rows = con.execute("""
+                SELECT c.pin_number, c.description
+                FROM ecu_components c JOIN ecu_models m ON c.ecu_id = m.id
+                WHERE LOWER(m.ecu_code) LIKE ?
+                ORDER BY CAST(c.pin_number AS INTEGER)
+            """, (f"%{ecu_code.lower()}%",)).fetchall()
+        return [{"pin": r[0], "description": r[1]} for r in rows]
+
+    def ecu_stats(self) -> dict:
+        """Summary counts of indexed ECU knowledge."""
+        with self._conn() as con:
+            tbls = {r[0] for r in con.execute("SELECT name FROM sqlite_master WHERE type='table'").fetchall()}
+            if "ecu_models" not in tbls:
+                return {}
+            models = con.execute("SELECT COUNT(*) FROM ecu_models").fetchone()[0]
+            faults = con.execute("SELECT COUNT(*) FROM ecu_faults").fetchone()[0]
+            comps  = con.execute("SELECT COUNT(*) FROM ecu_components").fetchone()[0]
+            by_make = {r[0]: r[1] for r in con.execute(
+                "SELECT make, COUNT(*) FROM ecu_models GROUP BY make ORDER BY COUNT(*) DESC"
+            ).fetchall()}
+        return {"models": models, "faults": faults, "components": comps, "by_make": by_make}
