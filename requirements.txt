@@ -1,0 +1,10 @@
+pyserial>=3.5
+python-can>=4.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+plotly>=5.15.0
+deap>=1.4.0
+fpdf2>=2.7.0
+python-uds>=1.0.0
