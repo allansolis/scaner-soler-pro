@@ -1,0 +1,16 @@
+# Binarios grandes — ECU maps, software, instaladores, videos
+*.zip
+*.rar
+*.7z
+*.exe
+*.mp4
+*.part1.rar
+*.part2.rar
+
+# Node
+node_modules/
+
+# Archivos de sistema
+Thumbs.db
+desktop.ini
+.DS_Store

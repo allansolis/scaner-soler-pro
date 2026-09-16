@@ -1,0 +1,531 @@
+[2026-05-20 07:40:05] ═══════════════════════════════════════════════
+[2026-05-20 07:40:05]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 07:40:05] ═══════════════════════════════════════════════
+[2026-05-20 07:40:05] Excel leído: 715 filas
+[2026-05-20 07:40:05] Pendientes: 715 / 715
+[2026-05-20 07:40:05] → Iniciando Chrome...
+[2026-05-20 07:40:07] → Login RNP...
+[2026-05-20 07:40:17] ✅ Login exitoso
+[2026-05-20 07:40:22] Fila 2/715: Finca 201485 | Prov 1 | 201485-000
+[2026-05-20 07:40:25]     → 54,618,900.00 COLONES
+[2026-05-20 07:40:38] Fila 3/715: Finca 219494 | Prov 6 | 219494-000
+[2026-05-20 07:40:41]     → 2,330,000.00 COLONES
+[2026-05-20 07:40:54] Fila 4/715: Finca 176997 | Prov 5 | 176997-000
+[2026-05-20 07:40:57]     → 7,337,037.50 COLONES
+[2026-05-20 07:41:09] Fila 5/715: Finca 152221 | Prov 5 | 152221-000
+[2026-05-20 07:41:14]     → 17,848,600.00 COLONES
+[2026-05-20 07:41:26] Fila 6/715: Finca 348517 | Prov 1 | 348517-002-003-004
+[2026-05-20 07:41:29]     → 38,000,000.00 COLONES
+[2026-05-20 07:41:29] ❌ ERROR FATAL: EBUSY: resource busy or locked, open 'C:\Users\Usuario\Desktop\Remates 2026.xlsx'
+[2026-05-20 07:41:52] ═══════════════════════════════════════════════
+[2026-05-20 07:41:52]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 07:41:52] ═══════════════════════════════════════════════
+[2026-05-20 07:41:52] Excel leído: 715 filas
+[2026-05-20 07:41:52] Pendientes: 715 / 715
+[2026-05-20 07:41:52] → Iniciando Chrome...
+[2026-05-20 07:41:54] → Login RNP...
+[2026-05-20 07:42:04] ✅ Login exitoso
+[2026-05-20 07:42:10] Fila 2/715: Finca 201485 | Prov 1 | 201485-000
+[2026-05-20 07:42:13]     → 54,618,900.00 COLONES
+[2026-05-20 07:42:25] Fila 3/715: Finca 219494 | Prov 6 | 219494-000
+[2026-05-20 07:42:28]     → 2,330,000.00 COLONES
+[2026-05-20 07:42:41] Fila 4/715: Finca 176997 | Prov 5 | 176997-000
+[2026-05-20 07:42:44]     → 7,337,037.50 COLONES
+[2026-05-20 07:42:56] Fila 5/715: Finca 152221 | Prov 5 | 152221-000
+[2026-05-20 07:42:59]     → 17,848,600.00 COLONES
+[2026-05-20 07:43:12] Fila 6/715: Finca 348517 | Prov 1 | 348517-002-003-004
+[2026-05-20 07:43:15]     → 38,000,000.00 COLONES
+[2026-05-20 07:43:15] ❌ ERROR FATAL: EBUSY: resource busy or locked, open 'C:\Users\Usuario\Desktop\Remates 2026.xlsx'
+[2026-05-20 07:43:42] ═══════════════════════════════════════════════
+[2026-05-20 07:43:42]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 07:43:42] ═══════════════════════════════════════════════
+[2026-05-20 07:43:42] Excel leído: 715 filas
+[2026-05-20 07:43:42] Pendientes: 715 / 715
+[2026-05-20 07:43:42] → Iniciando Chrome...
+[2026-05-20 07:43:44] → Login RNP...
+[2026-05-20 07:43:54] ✅ Login exitoso
+[2026-05-20 07:44:00] Fila 2/715: Finca 201485 | Prov 1 | 201485-000
+[2026-05-20 07:44:02]     → 54,618,900.00 COLONES
+[2026-05-20 07:44:15] Fila 3/715: Finca 219494 | Prov 6 | 219494-000
+[2026-05-20 07:44:18]     → 2,330,000.00 COLONES
+[2026-05-20 07:44:30] Fila 4/715: Finca 176997 | Prov 5 | 176997-000
+[2026-05-20 07:44:33]     → 7,337,037.50 COLONES
+[2026-05-20 07:44:46] Fila 5/715: Finca 152221 | Prov 5 | 152221-000
+[2026-05-20 07:44:49]     → 17,848,600.00 COLONES
+[2026-05-20 07:45:01] Fila 6/715: Finca 348517 | Prov 1 | 348517-002-003-004
+[2026-05-20 07:45:04]     → 38,000,000.00 COLONES
+[2026-05-20 07:45:04] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:45:17] Fila 7/715: Finca 102005 | Prov 4 | 102005-001-002
+[2026-05-20 07:45:20]     → 13,004,500.00 COLONES
+[2026-05-20 07:45:32] Fila 8/715: Finca 153286 | Prov 3 | 153286-F-000
+[2026-05-20 07:45:35]     → FINCA NO ENCONTRADA
+[2026-05-20 07:45:45] Fila 9/715: Finca 50588 | Prov 6 | 50588-F-000
+[2026-05-20 07:45:48]     → FINCA NO ENCONTRADA
+[2026-05-20 07:45:57] Fila 10/715: Finca 708686 | Prov 1 | 708686-000
+[2026-05-20 07:46:00]     → 32,020,480.00 COLONES
+[2026-05-20 07:46:12] Fila 11/715: Finca 412603 | Prov 2 | 412603-000
+[2026-05-20 07:46:12] ⏸️  Pausando 130s (límite 10/2min)...
+[2026-05-20 07:46:13] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:48:28]     → 58,482,030.00 COLONES
+[2026-05-20 07:48:29] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:48:41] Fila 12/715: Finca 340610 | Prov 2 | 340610-000
+[2026-05-20 07:48:44]     → 28,617,680.00 COLONES
+[2026-05-20 07:48:57] Fila 13/715: Finca 46202 | Prov 6 | 46202-F-000
+[2026-05-20 07:48:59]     → FINCA NO ENCONTRADA
+[2026-05-20 07:49:09] Fila 14/715: Finca 167476 | Prov 6 | 167476-000
+[2026-05-20 07:49:15]     → 31,210,800.00 COLONES
+[2026-05-20 07:49:27] Fila 15/715: Finca 92534 | Prov 3 | 92534-000
+[2026-05-20 07:49:30]     → 28,062,175.00 COLONES
+[2026-05-20 07:49:43] Fila 16/715: Finca 58742 | Prov 3 | 58742-000
+[2026-05-20 07:49:46]     → 70,541,525.00 COLONES
+[2026-05-20 07:49:46] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:49:59] Fila 17/715: Finca 638709 | Prov 1 | 638709-000
+[2026-05-20 07:50:02]     → 30,506,400.00 COLONES
+[2026-05-20 07:50:14] Fila 18/715: Finca 231160 | Prov 1 | 231160-000
+[2026-05-20 07:50:18]     → 42,994,700.00 COLONES
+[2026-05-20 07:50:31] Fila 19/715: Finca 199211 | Prov 1 | 199211-F-000
+[2026-05-20 07:50:34]     → FINCA NO ENCONTRADA
+[2026-05-20 07:50:43] Fila 20/715: Finca 40104 | Prov 1 | 40104-F-000
+[2026-05-20 07:50:43] ⏸️  Pausando 130s (límite 10/2min)...
+[2026-05-20 07:50:43] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:52:59]     → FINCA NO ENCONTRADA
+[2026-05-20 07:53:08] Fila 21/715: Finca 218809 | Prov 3 | 218809-000
+[2026-05-20 07:53:11]     → 59,635,800.00 COLONES
+[2026-05-20 07:53:12] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:53:24] Fila 22/715: Finca 245187 | Prov 1 | 245187-000
+[2026-05-20 07:53:27]     → 50,952,797.91 COLONES
+[2026-05-20 07:53:40] Fila 23/715: Finca 457581 | Prov 1 | 457581-000
+[2026-05-20 07:53:45]     → 42,700,325.00 COLONES
+[2026-05-20 07:53:58] Fila 24/715: Finca 84262 | Prov 4 | 84262-000
+[2026-05-20 07:54:01]     → 69,463,250.00 COLONES
+[2026-05-20 07:54:14] Fila 25/715: Finca 744628 | Prov 1 | 744628-000
+[2026-05-20 07:54:17]     → 35,763,700.00 COLONES
+[2026-05-20 07:54:29] Fila 26/715: Finca 3185 | Prov 1 | 3185-F-000
+[2026-05-20 07:54:32]     → FINCA NO ENCONTRADA
+[2026-05-20 07:54:32] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:54:42] Fila 27/715: Finca 105250 | Prov 3 | 105250-F-000
+[2026-05-20 07:54:44]     → FINCA NO ENCONTRADA
+[2026-05-20 07:54:54] Fila 28/715: Finca 195476 | Prov 4 | 195476-000
+[2026-05-20 07:54:57]     → 55,000,000.00 COLONES
+[2026-05-20 07:55:10] Fila 29/715: Finca 579458 | Prov 1 | 579458-000
+[2026-05-20 07:55:10] ⏸️  Pausando 130s (límite 10/2min)...
+[2026-05-20 07:55:10] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:57:25]     → 112,009,319.00 COLONES
+[2026-05-20 07:57:38] Fila 30/715: Finca 150923 | Prov 3 | 150923-003-004
+[2026-05-20 07:57:40]     → 100,000,000.00 COLONES
+[2026-05-20 07:57:53] Fila 31/715: Finca 384821 | Prov 1 | 384821-000
+[2026-05-20 07:57:56]     → 69,514,320.00 COLONES
+[2026-05-20 07:57:56] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:58:08] Fila 32/715: Finca 561324 | Prov 1 | 561324-000
+[2026-05-20 07:58:11]     → 56,842,710.00 COLONES
+[2026-05-20 07:58:24] Fila 33/715: Finca 126759 | Prov 4 | 126759-F-000
+[2026-05-20 07:58:27]     → FINCA NO ENCONTRADA
+[2026-05-20 07:58:36] Fila 34/715: Finca 34723 | Prov 4 | 34723-F-000
+[2026-05-20 07:58:39]     → FINCA NO ENCONTRADA
+[2026-05-20 07:58:48] Fila 35/715: Finca 316453 | Prov 2 | 316453-000
+[2026-05-20 07:58:51]     → 70,181,267.74 COLONES
+[2026-05-20 07:59:04] Fila 36/715: Finca 50509 | Prov 1 | 50509-F-000
+[2026-05-20 07:59:07]     → FINCA NO ENCONTRADA
+[2026-05-20 07:59:07] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 07:59:16] Fila 37/715: Finca 141489 | Prov 1 | 141489-F-000
+[2026-05-20 07:59:19]     → FINCA NO ENCONTRADA
+[2026-05-20 07:59:29] Fila 38/715: Finca 106048 | Prov 1 | 106048-F-000
+[2026-05-20 07:59:29] ⏸️  Pausando 130s (límite 10/2min)...
+[2026-05-20 07:59:29] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 08:01:44]     → FINCA NO ENCONTRADA
+[2026-05-20 08:01:54] Fila 39/715: Finca 215949 | Prov 4 | 215949-F-000
+[2026-05-20 08:01:56]     → FINCA NO ENCONTRADA
+[2026-05-20 08:02:06] Fila 40/715: Finca 30036 | Prov 1 | 30036-F-000
+[2026-05-20 08:02:09]     → FINCA NO ENCONTRADA
+[2026-05-20 08:02:18] Fila 41/715: Finca 46622 | Prov 4 | 46622-F-000
+[2026-05-20 08:02:21]     → FINCA NO ENCONTRADA
+[2026-05-20 08:02:21] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 08:02:31] Fila 42/715: Finca 142423 | Prov 4 | 142423-000
+[2026-05-20 08:02:33]     → 181,522,092.00 COLONES
+[2026-05-20 08:02:46] Fila 43/715: Finca 376509 | Prov 2 | 376509-000
+[2026-05-20 08:02:49]     → 200,527,025.00 COLONES
+[2026-05-20 08:03:02] Fila 44/715: Finca 98427 | Prov 4 | 98427-000
+[2026-05-20 08:03:04]     → 208,072,000.00 COLONES
+[2026-05-20 08:03:17] Fila 45/715: Finca 134466 | Prov 1 | 134466-000
+[2026-05-20 08:03:20]     → 215,300,400.00 COLONES
+[2026-05-20 08:03:33] Fila 46/715: Finca 18761 | Prov 1 | 18761-000
+[2026-05-20 08:03:36]     → SIN VALOR FISCAL
+[2026-05-20 08:03:36] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 08:03:49] ⚠️  URL inesperada: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:03:49] Fila 47/715: Finca 151937 | Prov 5 | 151937-000
+[2026-05-20 08:03:49] ⏸️  Pausando 130s (límite 10/2min)...
+[2026-05-20 08:03:49] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 08:06:04] ⚠️  URL inesperada: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:06:14]   ⚠️ Error: Waiting for selector `input[name="params:finca"]` failed
+[2026-05-20 08:06:14]     → ERROR
+[2026-05-20 08:06:27] ⚠️  URL inesperada: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:06:27] Fila 48/715: Finca 288438 | Prov 1 | 288438-000
+[2026-05-20 08:06:37]   ⚠️ Error: Waiting for selector `input[name="params:finca"]` failed
+[2026-05-20 08:06:37]     → ERROR
+[2026-05-20 08:06:49] ⚠️  URL inesperada: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:06:49] Fila 49/715: Finca 272231 | Prov 2 | 272231-001-002-003
+[2026-05-20 08:06:59]   ⚠️ Error: Waiting for selector `input[name="params:finca"]` failed
+[2026-05-20 08:06:59]     → ERROR
+[2026-05-20 08:07:12] ⚠️  URL inesperada: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:07:12] Fila 50/715: Finca 174764 | Prov 3 | 174764-001-002
+[2026-05-20 08:12:20] ═══════════════════════════════════════════════
+[2026-05-20 08:12:20]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 08:12:20] ═══════════════════════════════════════════════
+[2026-05-20 08:12:20] Leyendo: SALIDA (reanudando)
+[2026-05-20 08:12:20] Excel leído: 715 filas
+[2026-05-20 08:12:20] Pendientes: 670 / 715
+[2026-05-20 08:12:20] → Iniciando Chrome...
+[2026-05-20 08:12:24] → Login RNP...
+[2026-05-20 08:12:34] ⚠️  Login posiblemente fallido
+[2026-05-20 08:12:34] Abortando: login fallido.
+[2026-05-20 08:14:06] ═══════════════════════════════════════════════
+[2026-05-20 08:14:06]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 08:14:06] ═══════════════════════════════════════════════
+[2026-05-20 08:14:06] Leyendo: SALIDA (reanudando)
+[2026-05-20 08:14:07] Excel leído: 715 filas
+[2026-05-20 08:14:07] Pendientes: 670 / 715
+[2026-05-20 08:14:07] → Iniciando Chrome...
+[2026-05-20 08:14:09] → Login RNP (intento 1/3)...
+[2026-05-20 08:14:19]   → Modal "Sesión Activa" detectado, continuando...
+[2026-05-20 08:14:25]   ⚠️ Intento 1 fallido
+[2026-05-20 08:14:29] → Login RNP (intento 2/3)...
+[2026-05-20 08:14:37]   → Modal "Sesión Activa" detectado, continuando...
+[2026-05-20 08:14:43]   ⚠️ Intento 2 fallido
+[2026-05-20 08:14:47] → Login RNP (intento 3/3)...
+[2026-05-20 08:14:55]   → Modal "Sesión Activa" detectado, continuando...
+[2026-05-20 08:15:01]   ⚠️ Intento 3 fallido
+[2026-05-20 08:15:01] ❌ Login fallido tras todos los intentos
+[2026-05-20 08:15:01] Abortando: login fallido.
+[2026-05-20 08:16:13] ═══════════════════════════════════════════════
+[2026-05-20 08:16:13]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 08:16:13] ═══════════════════════════════════════════════
+[2026-05-20 08:16:13] Leyendo: SALIDA (reanudando)
+[2026-05-20 08:16:13] Excel leído: 715 filas
+[2026-05-20 08:16:13] Pendientes: 670 / 715
+[2026-05-20 08:16:13] → Iniciando Chrome...
+[2026-05-20 08:16:14] → Login RNP (intento 1/3)...
+[2026-05-20 08:16:25]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:16:26]   → Clic en botón: "Ingresar"
+[2026-05-20 08:16:32]   ⚠️ Intento 1 fallido
+[2026-05-20 08:16:36] → Login RNP (intento 2/3)...
+[2026-05-20 08:16:44]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:16:44]   → Clic en botón: "Ingresar"
+[2026-05-20 08:16:50]   ⚠️ Intento 2 fallido
+[2026-05-20 08:16:54] → Login RNP (intento 3/3)...
+[2026-05-20 08:17:02]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:17:02]   → Clic en botón: "Ingresar"
+[2026-05-20 08:17:08]   ⚠️ Intento 3 fallido
+[2026-05-20 08:17:08] ❌ Login fallido tras todos los intentos
+[2026-05-20 08:17:08] Abortando: login fallido.
+[2026-05-20 08:17:19] ═══════════════════════════════════════════════
+[2026-05-20 08:17:19]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 08:17:19] ═══════════════════════════════════════════════
+[2026-05-20 08:17:19] Leyendo: SALIDA (reanudando)
+[2026-05-20 08:17:20] Excel leído: 715 filas
+[2026-05-20 08:17:20] Pendientes: 670 / 715
+[2026-05-20 08:17:20] → Iniciando Chrome...
+[2026-05-20 08:17:21] → Login RNP (intento 1/3)...
+[2026-05-20 08:17:32]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:17:32]   → Clic modal: "Sí, continuar"
+[2026-05-20 08:17:33]   ⚠️ Intento 1 fallido
+[2026-05-20 08:17:37] → Login RNP (intento 2/3)...
+[2026-05-20 08:17:45]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:17:45]   → Clic modal: "Sí, continuar"
+[2026-05-20 08:17:46]   ⚠️ Intento 2 fallido
+[2026-05-20 08:17:50] → Login RNP (intento 3/3)...
+[2026-05-20 08:17:59]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:17:59]   → Clic modal: "Sí, continuar"
+[2026-05-20 08:18:00]   ⚠️ Intento 3 fallido
+[2026-05-20 08:18:00] ❌ Login fallido tras todos los intentos
+[2026-05-20 08:18:00] Abortando: login fallido.
+[2026-05-20 08:19:07] ═══════════════════════════════════════════════
+[2026-05-20 08:19:07]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 08:19:07] ═══════════════════════════════════════════════
+[2026-05-20 08:19:07] Leyendo: SALIDA (reanudando)
+[2026-05-20 08:19:07] Excel leído: 715 filas
+[2026-05-20 08:19:07] Pendientes: 670 / 715
+[2026-05-20 08:19:07] → Iniciando Chrome...
+[2026-05-20 08:19:08] → Login RNP (intento 1/3)...
+[2026-05-20 08:19:18]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:19:18]   → Clic modal: "No" (cerrar sesión activa e ingresar)
+[2026-05-20 08:19:26]   ⚠️ Intento 1 fallido
+[2026-05-20 08:19:30] → Login RNP (intento 2/3)...
+[2026-05-20 08:19:38]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:19:38]   → Clic modal: "No" (cerrar sesión activa e ingresar)
+[2026-05-20 08:19:46]   ⚠️ Intento 2 fallido
+[2026-05-20 08:19:50] → Login RNP (intento 3/3)...
+[2026-05-20 08:19:58]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:19:58]   → Clic modal: "No" (cerrar sesión activa e ingresar)
+[2026-05-20 08:20:06]   ⚠️ Intento 3 fallido
+[2026-05-20 08:20:06] ❌ Login fallido tras todos los intentos
+[2026-05-20 08:20:06] Abortando: login fallido.
+[2026-05-20 08:20:49] ═══════════════════════════════════════════════
+[2026-05-20 08:20:49]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 08:20:49] ═══════════════════════════════════════════════
+[2026-05-20 08:20:49] Leyendo: SALIDA (reanudando)
+[2026-05-20 08:20:49] Excel leído: 715 filas
+[2026-05-20 08:20:49] Pendientes: 670 / 715
+[2026-05-20 08:20:49] → Iniciando Chrome...
+[2026-05-20 08:20:51] → Login RNP (intento 1/3)...
+[2026-05-20 08:21:00]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:21:00]   → Modal: click "No" (cerrar sesión activa)
+[2026-05-20 08:21:04]   → Re-clic "Ingresar" tras cerrar modal
+[2026-05-20 08:21:11]   ⚠️ Intento 1 fallido
+[2026-05-20 08:21:15] → Login RNP (intento 2/3)...
+[2026-05-20 08:21:23]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:21:23]   → Modal: click "No" (cerrar sesión activa)
+[2026-05-20 08:21:26]   → Re-clic "Ingresar" tras cerrar modal
+[2026-05-20 08:21:33]   ⚠️ Intento 2 fallido
+[2026-05-20 08:21:37] → Login RNP (intento 3/3)...
+[2026-05-20 08:21:45]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:21:45]   → Modal: click "No" (cerrar sesión activa)
+[2026-05-20 08:21:48]   → Re-clic "Ingresar" tras cerrar modal
+[2026-05-20 08:21:55] ═══════════════════════════════════════════════
+[2026-05-20 08:21:55]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 08:21:55] ═══════════════════════════════════════════════
+[2026-05-20 08:21:55] Leyendo: SALIDA (reanudando)
+[2026-05-20 08:21:55]   ⚠️ Intento 3 fallido
+[2026-05-20 08:21:55] ❌ Login fallido tras todos los intentos
+[2026-05-20 08:21:55] Abortando: login fallido.
+[2026-05-20 08:21:55] Excel leído: 715 filas
+[2026-05-20 08:21:56] Pendientes: 670 / 715
+[2026-05-20 08:21:56] → Iniciando Chrome...
+[2026-05-20 08:21:57] → Login RNP (intento 1/3)...
+[2026-05-20 08:22:07]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:22:07]   → Modal: click "No" (cerrar sesión activa)
+[2026-05-20 08:22:10]   → Re-clic "Ingresar" tras cerrar modal
+[2026-05-20 08:22:17]   URL post-login: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:22:17]   Texto: Inicio Ayuda Entidades Receptoras Contáctenos   Datos incorrectos.   INGRESO PARA USUARIOS REGISTRADOS   Correo electrónico:    Contraseña:        ¿Ha olvidado su contraseña?   Número de certificación
+[2026-05-20 08:22:17]   ⚠️ Intento 1 fallido
+[2026-05-20 08:22:21] → Login RNP (intento 2/3)...
+[2026-05-20 08:22:29]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:22:29]   → Modal: click "No" (cerrar sesión activa)
+[2026-05-20 08:22:32]   → Re-clic "Ingresar" tras cerrar modal
+[2026-05-20 08:22:39]   URL post-login: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:22:39]   Texto: Inicio Ayuda Entidades Receptoras Contáctenos   Datos incorrectos.   INGRESO PARA USUARIOS REGISTRADOS   Correo electrónico:    Contraseña:        ¿Ha olvidado su contraseña?   Número de certificación
+[2026-05-20 08:22:39]   ⚠️ Intento 2 fallido
+[2026-05-20 08:22:43] → Login RNP (intento 3/3)...
+[2026-05-20 08:22:52]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:22:52]   → Modal: click "No" (cerrar sesión activa)
+[2026-05-20 08:22:55]   → Re-clic "Ingresar" tras cerrar modal
+[2026-05-20 08:22:57] ═══════════════════════════════════════════════
+[2026-05-20 08:22:57]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 08:22:57] ═══════════════════════════════════════════════
+[2026-05-20 08:22:57] Leyendo: SALIDA (reanudando)
+[2026-05-20 08:22:58] Excel leído: 715 filas
+[2026-05-20 08:22:58] Pendientes: 670 / 715
+[2026-05-20 08:22:58] → Iniciando Chrome...
+[2026-05-20 08:22:59] → Login RNP (intento 1/3)...
+[2026-05-20 08:23:02]   URL post-login: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:23:02]   Texto: Inicio Ayuda Entidades Receptoras Contáctenos   Datos incorrectos.   INGRESO PARA USUARIOS REGISTRADOS   Correo electrónico:    Contraseña:        ¿Ha olvidado su contraseña?   Número de certificación
+[2026-05-20 08:23:02]   ⚠️ Intento 3 fallido
+[2026-05-20 08:23:02] ❌ Login fallido tras todos los intentos
+[2026-05-20 08:23:02] Abortando: login fallido.
+[2026-05-20 08:23:09]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:23:09]   → Modal: click "No" (cerrar sesión activa)
+[2026-05-20 08:23:12]   → Re-clic "Ingresar" con credenciales recargadas
+[2026-05-20 08:23:19]   URL post-login: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:23:19]   Texto: Inicio Ayuda Entidades Receptoras Contáctenos   Su usuario no está disponible, favor contactarse a los teléfonos 2202-0777/2202-0888 o a través de chat en línea desde el portal web. ¡Estamos para serv
+[2026-05-20 08:23:19]   ⚠️ Intento 1 fallido
+[2026-05-20 08:23:23] → Login RNP (intento 2/3)...
+[2026-05-20 08:23:31]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:23:31]   → Modal: click "No" (cerrar sesión activa)
+[2026-05-20 08:23:35]   → Re-clic "Ingresar" con credenciales recargadas
+[2026-05-20 08:23:42]   URL post-login: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:23:42]   Texto: Inicio Ayuda Entidades Receptoras Contáctenos   Su usuario no está disponible, favor contactarse a los teléfonos 2202-0777/2202-0888 o a través de chat en línea desde el portal web. ¡Estamos para serv
+[2026-05-20 08:23:42]   ⚠️ Intento 2 fallido
+[2026-05-20 08:23:46] → Login RNP (intento 3/3)...
+[2026-05-20 08:23:54]   Botones en página: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 08:23:54]   → Modal: click "No" (cerrar sesión activa)
+[2026-05-20 08:23:57]   → Re-clic "Ingresar" con credenciales recargadas
+[2026-05-20 08:24:04]   URL post-login: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 08:24:04]   Texto: Inicio Ayuda Entidades Receptoras Contáctenos   Su usuario no está disponible, favor contactarse a los teléfonos 2202-0777/2202-0888 o a través de chat en línea desde el portal web. ¡Estamos para serv
+[2026-05-20 08:24:05]   ⚠️ Intento 3 fallido
+[2026-05-20 08:24:05] ❌ Login fallido tras todos los intentos
+[2026-05-20 08:24:05] Abortando: login fallido.
+[2026-05-20 08:27:10] ═══════════════════════════════════════════════
+[2026-05-20 08:27:10]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 08:27:10] ═══════════════════════════════════════════════
+[2026-05-20 08:27:10] Leyendo: SALIDA (reanudando)
+[2026-05-20 08:27:10] Excel leído: 715 filas
+[2026-05-20 08:27:10] Pendientes: 670 / 715
+[2026-05-20 08:27:10] → Iniciando Chrome...
+[2026-05-20 08:27:11] → Login RNP...
+[2026-05-20 08:27:15] ❌ ERROR FATAL: Unknown key: "Control+a"
+[2026-05-20 08:27:15] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 18:12:52] ═══════════════════════════════════════════════
+[2026-05-20 18:12:52]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 18:12:52] ═══════════════════════════════════════════════
+[2026-05-20 18:12:52] Leyendo: SALIDA (reanudando)
+[2026-05-20 18:12:53] Excel leído: 715 filas
+[2026-05-20 18:12:53] Pendientes: 670 / 715
+[2026-05-20 18:12:53] → Iniciando Chrome...
+[2026-05-20 18:12:56] → Login RNP...
+[2026-05-20 18:13:00] ❌ ERROR FATAL: Unknown key: "Control+a"
+[2026-05-20 18:13:00] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 18:15:36] ═══════════════════════════════════════════════
+[2026-05-20 18:15:36]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 18:15:36] ═══════════════════════════════════════════════
+[2026-05-20 18:15:36] Leyendo: SALIDA (reanudando)
+[2026-05-20 18:15:37] Excel leído: 715 filas
+[2026-05-20 18:15:37] Pendientes: 670 / 715
+[2026-05-20 18:15:37] → Iniciando Chrome...
+[2026-05-20 18:15:39] → Login RNP...
+[2026-05-20 18:15:44]   → Ingresar click #1
+[2026-05-20 18:15:50]   Botones: [Ingresar | Verificar | Sí, continuar | No]
+[2026-05-20 18:15:50]   → Modal "No" (cerrar sesión activa)
+[2026-05-20 18:15:57]   → Ingresar click #2 (post-modal)
+[2026-05-20 18:16:04]   URL: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 18:16:04]   Página: Inicio Ayuda Entidades Receptoras Contáctenos   INGRESO PARA USUARIOS REGISTRADOS   Correo electrónico:    Contraseña:        ¿Ha olvidado su contrase
+[2026-05-20 18:16:04] ❌ Login fallido
+[2026-05-20 18:16:04] Abortando: login fallido.
+[2026-05-20 18:18:05] ═══════════════════════════════════════════════
+[2026-05-20 18:18:05]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 18:18:05] ═══════════════════════════════════════════════
+[2026-05-20 18:18:05] Leyendo: SALIDA (reanudando)
+[2026-05-20 18:18:06] Excel leído: 715 filas
+[2026-05-20 18:18:06] Pendientes: 670 / 715
+[2026-05-20 18:18:06] → Iniciando Chrome...
+[2026-05-20 18:18:07] → Login RNP...
+[2026-05-20 18:18:11]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:18:11]   → Ingresar #1
+[2026-05-20 18:18:18]   Botones post-click: [Ingresar | Verificar | Sí, continuar | No]
+[2026-05-20 18:18:18]   → Modal: click "Sí, continuar"
+[2026-05-20 18:18:26]   Página post-login: Inicio Ayuda Entidades Receptoras Contáctenos Desconectar Allann Solis Detalle de Certificaciones o Productos  Bienes Monitoreados Búsqueda Gráfica Marcas Carrito de Compras Consultas Gratuitas  Certi
+[2026-05-20 18:18:26]   Links: [Inicio | Ayuda | Entidades Receptoras | Contáctenos | Desconectar | Allann Solis | Detalle de Certificaciones o Productos | Bienes Monitoreados | Búsqueda Gráfica Marcas | Carrito de Compras]
+[2026-05-20 18:18:26] ✅ Login exitoso
+[2026-05-20 18:18:26] ⚠️ Sesión expirada — re-ingresando...
+[2026-05-20 18:18:26] → Login RNP...
+[2026-05-20 18:18:29]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:18:29]   → Ingresar #1
+[2026-05-20 18:18:36]   Botones post-click: [Ingresar | Verificar | Sí, continuar | No]
+[2026-05-20 18:18:36]   → Modal: click "Sí, continuar"
+[2026-05-20 18:18:44]   Página post-login: Inicio Ayuda Entidades Receptoras Contáctenos Desconectar Allann Solis Detalle de Certificaciones o Productos  Bienes Monitoreados Búsqueda Gráfica Marcas Carrito de Compras Consultas Gratuitas  Certi
+[2026-05-20 18:18:44]   Links: [Inicio | Ayuda | Entidades Receptoras | Contáctenos | Desconectar | Allann Solis | Detalle de Certificaciones o Productos | Bienes Monitoreados | Búsqueda Gráfica Marcas | Carrito de Compras]
+[2026-05-20 18:18:44] ✅ Login exitoso
+[2026-05-20 18:18:50] Fila 47/715: Finca 151937 | Prov 5 | 151937-000
+[2026-05-20 18:18:52]     → 668,142,000.00 COLONES
+[2026-05-20 18:19:05] Fila 48/715: Finca 288438 | Prov 1 | 288438-000
+[2026-05-20 18:19:08]     → 1,098,001,800.00 COLONES
+[2026-05-20 18:19:11] ═══════════════════════════════════════════════
+[2026-05-20 18:19:11]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 18:19:11] ═══════════════════════════════════════════════
+[2026-05-20 18:19:11] Leyendo: SALIDA (reanudando)
+[2026-05-20 18:19:12] Excel leído: 715 filas
+[2026-05-20 18:19:12] Pendientes: 670 / 715
+[2026-05-20 18:19:12] → Iniciando Chrome...
+[2026-05-20 18:19:14] → Login RNP...
+[2026-05-20 18:19:18]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:19:18]   → Ingresar #1
+[2026-05-20 18:19:21] Fila 49/715: Finca 272231 | Prov 2 | 272231-001-002-003
+[2026-05-20 18:19:23]     → 13,649,795.00 COLONES
+[2026-05-20 18:19:25]   Botones post-click: [Ingresar | Verificar | Sí, continuar | No]
+[2026-05-20 18:19:25]   → Modal: click "Sí, continuar"
+[2026-05-20 18:19:33]   Página post-login: Inicio Ayuda Entidades Receptoras Contáctenos Desconectar Allann Solis Detalle de Certificaciones o Productos  Bienes Monitoreados Búsqueda Gráfica Marcas Carrito de Compras Consultas Gratuitas  Certi
+[2026-05-20 18:19:33]   Links: [Inicio | Ayuda | Entidades Receptoras | Contáctenos | Desconectar | Allann Solis | Detalle de Certificaciones o Productos | Bienes Monitoreados | Búsqueda Gráfica Marcas | Carrito de Compras]
+[2026-05-20 18:19:33] ✅ Login exitoso
+[2026-05-20 18:19:36] Fila 50/715: Finca 174764 | Prov 3 | 174764-001-002
+[2026-05-20 18:19:39] Fila 47/715: Finca 151937 | Prov 5 | 151937-000
+[2026-05-20 18:19:39]     → 46,100,000.00 COLONES
+[2026-05-20 18:19:41]     → 668,142,000.00 COLONES
+[2026-05-20 18:19:43] ═══════════════════════════════════════════════
+[2026-05-20 18:19:43]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 18:19:43] ═══════════════════════════════════════════════
+[2026-05-20 18:19:43] Leyendo: SALIDA (reanudando)
+[2026-05-20 18:19:43] Excel leído: 715 filas
+[2026-05-20 18:19:43] Pendientes: 670 / 715
+[2026-05-20 18:19:43] → Iniciando Chrome...
+[2026-05-20 18:19:45] → Login RNP...
+[2026-05-20 18:19:49]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:19:49]   → Ingresar #1
+[2026-05-20 18:19:52] Fila 51/715: Finca 417131 | Prov 1 | 417131-000
+[2026-05-20 18:19:54] Fila 48/715: Finca 288438 | Prov 1 | 288438-000
+[2026-05-20 18:19:55]     → 90,700,000.00 COLONES
+[2026-05-20 18:19:55] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 18:19:56]   Botones post-click: [Ingresar | Verificar | Sí, continuar | No]
+[2026-05-20 18:19:56]   → Modal: click "Sí, continuar"
+[2026-05-20 18:19:57]     → 1,098,001,800.00 COLONES
+[2026-05-20 18:20:04]   Página post-login: Inicio Ayuda Entidades Receptoras Contáctenos Desconectar Allann Solis Detalle de Certificaciones o Productos  Bienes Monitoreados Búsqueda Gráfica Marcas Carrito de Compras Consultas Gratuitas  Certi
+[2026-05-20 18:20:04]   Links: [Inicio | Ayuda | Entidades Receptoras | Contáctenos | Desconectar | Allann Solis | Detalle de Certificaciones o Productos | Bienes Monitoreados | Búsqueda Gráfica Marcas | Carrito de Compras]
+[2026-05-20 18:20:04] ✅ Login exitoso
+[2026-05-20 18:20:08] Fila 52/715: Finca 43073 | Prov 6 | 43073-000
+[2026-05-20 18:20:10] Fila 49/715: Finca 272231 | Prov 2 | 272231-001-002-003
+[2026-05-20 18:20:10] Fila 47/715: Finca 151937 | Prov 5 | 151937-000
+[2026-05-20 18:20:11]     → 166,600,560.00 COLONES
+[2026-05-20 18:20:12]     → 13,649,795.00 COLONES
+[2026-05-20 18:20:13]     → 668,142,000.00 COLONES
+[2026-05-20 18:20:20] ═══════════════════════════════════════════════
+[2026-05-20 18:20:20]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 18:20:20] ═══════════════════════════════════════════════
+[2026-05-20 18:20:20] Leyendo: SALIDA (reanudando)
+[2026-05-20 18:20:20] Excel leído: 715 filas
+[2026-05-20 18:20:20] Pendientes: 665 / 715
+[2026-05-20 18:20:20] → Iniciando Chrome...
+[2026-05-20 18:20:23] → Login RNP...
+[2026-05-20 18:20:23] Fila 53/715: Finca 157662 | Prov 1 | 157662-001-002
+[2026-05-20 18:20:25] Fila 50/715: Finca 174764 | Prov 3 | 174764-001-002
+[2026-05-20 18:20:26] Fila 48/715: Finca 288438 | Prov 1 | 288438-000
+[2026-05-20 18:20:29]     → 20,649,962.00 COLONES
+[2026-05-20 18:20:29]     → 46,100,000.00 COLONES
+[2026-05-20 18:20:30]     → 1,098,001,800.00 COLONES
+[2026-05-20 18:20:30]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:20:30]   → Ingresar #1
+[2026-05-20 18:20:37]   Botones post-click: [Ingresar | Verificar | Sí, continuar | No]
+[2026-05-20 18:20:37]   → Modal: click "Sí, continuar"
+[2026-05-20 18:20:41] ⚠️  URL inesperada: https://www.rnpdigital.com/shopping/login.jspx
+[2026-05-20 18:20:41] ⚠️ No se pudo retomar formulario, reintentando login...
+[2026-05-20 18:20:41] → Login RNP...
+[2026-05-20 18:20:42] Fila 51/715: Finca 417131 | Prov 1 | 417131-000
+[2026-05-20 18:20:42] Fila 49/715: Finca 272231 | Prov 2 | 272231-001-002-003
+[2026-05-20 18:20:44]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:20:44]   → Ingresar #1
+[2026-05-20 18:20:45]     → SIN VALOR FISCAL
+[2026-05-20 18:20:45] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 18:20:45]     → SIN VALOR FISCAL
+[2026-05-20 18:20:45]   Página post-login: Inicio Ayuda Entidades Receptoras Contáctenos Desconectar Allann Solis Detalle de Certificaciones o Productos  Bienes Monitoreados Búsqueda Gráfica Marcas Carrito de Compras Consultas Gratuitas  Certi
+[2026-05-20 18:20:45]   Links: [Inicio | Ayuda | Entidades Receptoras | Contáctenos | Desconectar | Allann Solis | Detalle de Certificaciones o Productos | Bienes Monitoreados | Búsqueda Gráfica Marcas | Carrito de Compras]
+[2026-05-20 18:20:45] ✅ Login exitoso
+[2026-05-20 18:20:51] Fila 52/715: Finca 43073 | Prov 6 | 43073-000
+[2026-05-20 18:20:51]   Botones post-click: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 18:20:51]   → Modal: click "Sí, continuar"
+[2026-05-20 18:20:52] ⚠️ Sesión expirada — re-ingresando...
+[2026-05-20 18:20:52] → Login RNP...
+[2026-05-20 18:20:52] ⚠️ Sesión expirada — re-ingresando...
+[2026-05-20 18:20:52] → Login RNP...
+[2026-05-20 18:20:54]     → SIN VALOR FISCAL
+[2026-05-20 18:20:55]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:20:55]   → Ingresar #1
+[2026-05-20 18:20:55]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:20:55]   → Ingresar #1
+[2026-05-20 18:20:59]   Página post-login: Inicio Ayuda Entidades Receptoras Contáctenos   Su usuario no está disponible, favor contactarse a los teléfonos 2202-0777/2202-0888 o a través de chat en línea desde el portal web. ¡Estamos para serv
+[2026-05-20 18:20:59]   Links: [Inicio | Ayuda | Entidades Receptoras | Contáctenos | ¿Ha olvidado su contraseña? | Descargue Adobe Reader | rnpdigital@rnp.go.cr | rnpdigital@rnp.go.cr]
+[2026-05-20 18:20:59] ❌ Login fallido
+[2026-05-20 18:20:59] ❌ Fallo crítico de sesión. Guardando y saliendo.
+[2026-05-20 18:20:59] 💾 Guardado en: Remates 2026 - VALORES RNP.xlsx
+[2026-05-20 18:20:59] ═══════════════════════════════════════════════
+[2026-05-20 18:20:59] ✅ Fin: 7 procesadas | 0 con error
+[2026-05-20 18:20:59] ═══════════════════════════════════════════════
+[2026-05-20 18:21:01] ⚠️ Sesión expirada — re-ingresando...
+[2026-05-20 18:21:01] → Login RNP...
+[2026-05-20 18:21:02]   Botones post-click: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 18:21:02]   → Modal: click "Sí, continuar"
+[2026-05-20 18:21:02]   Botones post-click: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 18:21:02]   → Modal: click "Sí, continuar"
+[2026-05-20 18:21:04]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:21:04]   → Ingresar #1
+[2026-05-20 18:21:13] ═══════════════════════════════════════════════
+[2026-05-20 18:21:13]     AGENTE LEGAL RNP - Valor Fiscal Fincas     
+[2026-05-20 18:21:13] ═══════════════════════════════════════════════
+[2026-05-20 18:21:13] Leyendo: SALIDA (reanudando)
+[2026-05-20 18:21:13] Excel leído: 715 filas
+[2026-05-20 18:21:13] Pendientes: 663 / 715
+[2026-05-20 18:21:13] → Iniciando Chrome...
+[2026-05-20 18:21:15] → Login RNP...
+[2026-05-20 18:21:19]   Form: email="allann.solis.94@gmail.com" pass=13 chars
+[2026-05-20 18:21:19]   → Ingresar #1
+[2026-05-20 18:21:26]   Botones post-click: [Ingresar | Sí, continuar | No | Verificar]
+[2026-05-20 18:21:26]   → Modal: click "Sí, continuar"
+[2026-05-20 18:21:34]   Página post-login: Inicio Ayuda Entidades Receptoras Contáctenos   Su usuario no está disponible, favor contactarse a los teléfonos 2202-0777/2202-0888 o a través de chat en línea desde el portal web. ¡Estamos para serv
+[2026-05-20 18:21:34]   Links: [Inicio | Ayuda | Entidades Receptoras | Contáctenos | ¿Ha olvidado su contraseña? | Descargue Adobe Reader | rnpdigital@rnp.go.cr | rnpdigital@rnp.go.cr]
+[2026-05-20 18:21:34] ❌ Login fallido
+[2026-05-20 18:21:34] Abortando: login fallido.
